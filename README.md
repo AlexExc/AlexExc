@@ -31,27 +31,16 @@
 - Node.js / Express
 - REST APIs
 
-### Desarrollo Móvil
-- Flutter / Android Studio
-
-### Bases de Datos
-- MySQL
-- PostgreSQL
-- MongoDB (en proceso)
-
 ### Otros
 - Git & GitHub
 - Diseño de algoritmos
-- Simulación de redes en **Cisco Packet Tracer**
 - Manejo de sistemas operativos Linux y Windows
 - Documentación técnica, mapas conceptuales y resúmenes estructurados
 
 ---
 
 ## 📚 Actualmente aprendiendo
-- Docker y contenedores 🐳
 - Arquitectura limpia y principios SOLID 🧱
-- Inteligencia Artificial y modelos generativos 🤖
 - Automatización con Python y scripts en Bash
 - Buenas prácticas de diseño y desarrollo de software
 
